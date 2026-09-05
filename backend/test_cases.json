@@ -1,0 +1,26 @@
+[
+    {
+        "raw_mention": "Under Singapore law, proximity is governed by Spandeck Engineering v DSTA [2007] 4 SLR(R) 100.",
+        "type": "case_title",
+        "canonical_query": "Spandeck Engineering v DSTA",
+        "citation": "[2007] 4 SLR(R) 100",
+        "audit_context": {
+            "asserted_holdings": [],
+            "direct_quotes": [
+                "first stage requires physical, circumstantial or causal proximity"
+            ]
+        }
+    },
+    {
+        "raw_mention": "Also in PP v Smith, Judge crashed out.",
+        "type": "case_title",
+        "canonical_query": "PP v Smith",
+        "citation": "",
+        "audit_context": {
+            "asserted_holdings": [],
+            "direct_quotes": [
+                "Judge crashed out"
+            ]
+        }
+    }
+]
